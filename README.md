@@ -31,11 +31,11 @@ I built a small SIEM lab to practice Windows event log collection, data connecto
 
 2.Azure Arc onboarding script ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/d50da997836e808c0a7955c3474da22512e1b8be/02-onboarding-script.png)
 
-3. Windows Security Events via AMA connector ![image alt] (https://github.com/J-Walker-Git/siem-log-analysis/blob/01adab6bed264583f59c79773f1fd8e60cb291fb/03-sentinel-data-connector.png)
+3. Windows Security Events via AMA connector ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/01adab6bed264583f59c79773f1fd8e60cb291fb/03-sentinel-data-connector.png)
 
-4. SecurityEvent query results ![image alt]{https://github.com/J-Walker-Git/siem-log-analysis/blob/2eb0d09712262b5e98526aba34cf0d8766566d7a/04-logs-query-event-data-1.png}
+4. SecurityEvent query results ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/2eb0d09712262b5e98526aba34cf0d8766566d7a/04-logs-query-event-data-1.png)
 
-5. Failed logon investigation ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/01adab6bed264583f59c79773f1fd8e60cb291fb/03-sentinel-data-connector.png)
+5. Failed logon investigation ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/8860d78a6140f65db6fae861c4417967696a0398/05-unsuccessful-logons-due-to-incorrect-password.png)
 
 ## Key Skills Demonstrated
 
