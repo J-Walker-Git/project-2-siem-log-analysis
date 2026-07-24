@@ -1,2 +1,42 @@
-# siem-log-analysis
-A project showing data collection, threat detection and security response using Microsoft Azure to collect data from my Windows 11 Virtual Machine
+# SIEM Log Analysis Lab
+
+This project demonstrates a beginner-friendly SOC lab built with Microsoft Sentinel, Azure Arc, and a Windows 11 virtual machine in VMware Workstation. It focuses on the core operational flow of a SOC analyst: onboarding an endpoint, validating telemetry, querying security logs, and investigating failed authentication activity.
+
+## Summary
+
+I built a small SIEM lab to practice Windows event log collection, data connector setup, KQL investigation, and basic detection validation. The lab shows the full path from onboarding a VM into Azure to confirming log ingestion and running queries in Sentinel.
+
+## Objectives
+
+- Onboard a Windows 11 VM to Azure Arc.
+- Configure Microsoft Sentinel for log analysis.
+- Create and validate a Windows Security Events data collection rule.
+- Confirm SecurityEvent ingestion in Log Analytics.
+- Investigate failed logons with KQL.
+
+## Lab Stack
+
+- VMware Workstation
+- Windows 11 x64 VM
+- Azure Arc
+- Microsoft Sentinel
+- Log Analytics Workspace
+- Azure Monitor Agent
+- Windows Security Events
+- Microsoft Defender for Cloud
+
+## Evidence Sequence
+
+1. Azure Arc connected.
+2. Azure Arc onboarding script.
+3. Windows Security Events via AMA connector.
+4. SecurityEvent query results.
+5. Failed logon investigation.
+
+## Key Skills Demonstrated
+
+- Cloud onboarding and endpoint integration.
+- SIEM configuration and validation.
+- KQL querying.
+- Security event triage.
+- Technical documentation.
