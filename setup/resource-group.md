@@ -10,4 +10,4 @@ This made the project easier to manage, because all lab resources could be group
 
 ## Evidence
 
-![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/0c49e3113482a6d28b6b898430d17c2c1af04488/setup/log-analytics-workspace-overview.png)
+![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/6245f2a2a2fc1b7cf2f24dfbbd2d109b507cdfd3/setup/resource-group.png)
