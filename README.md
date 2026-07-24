@@ -35,7 +35,7 @@ This lab was built to practice Windows event log collection, data connector setu
 
 **4.** **SecurityEvent query results** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/4eee1004d7d79f4564c5871ecd54fca63fb74e7d/setup/logs-query-event-data-1.png)
 
-**5.** **Failed logon investigation** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/8261634fb6eb144940388599c7c88f84c43c2f46/setup/05-unsuccessful-logons.png)
+**5.** **Failed logon investigation** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/9d15395df47db83d9dbec7f4c7c646556802afb3/setup/unsuccessful-logons.png)
 
 ## Key Skills Demonstrated
 
