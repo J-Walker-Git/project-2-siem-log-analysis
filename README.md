@@ -35,7 +35,7 @@ I built a small SIEM lab to practice Windows event log collection, data connecto
 
 4. **SecurityEvent query results** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/2eb0d09712262b5e98526aba34cf0d8766566d7a/04-logs-query-event-data-1.png)
 
-5. **Failed logon investigation** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/8860d78a6140f65db6fae861c4417967696a0398/05-unsuccessful-logons-due-to-incorrect-password.png)
+5. **Failed logon investigation** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/25dcd734c94d01148c9db8d38b75202aa4435f0b/05-unsuccessful-logons.png)
 
 ## Key Skills Demonstrated
 
