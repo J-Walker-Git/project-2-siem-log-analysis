@@ -1,0 +1,30 @@
+# Log Analytics Workspace Setup
+
+The Log Analytics workspace was used as the central data store for collected logs in this lab. It allowed Microsoft Sentinel to ingest, query, and analyze Windows Security Events from the onboarded Windows 11 virtual machine (VM).
+
+## Purpose
+
+The Log Analytics workspace served as the location where security telemetry was stored before being queried in Sentinel. This is important because Microsoft Sentinel is onboarded to a Log Analytics workspace and uses that workspace for data collection and investigation workflows..
+
+## Steps Completed
+
+1. Signed in to the Azure portal.
+2. Created a new Log Analytics workspace.
+3. Selected the correct subscription, resource group, and region.
+4. Linked Microsoft Sentinel to the workspace.
+5. Used the workspace as the destination for collected Windows Security Events.
+
+## Key Configuration Notes
+
+The workspace needed to exist before Microsoft Sentinel could be enabled in the lab. After setup, it became the main location for reviewing ingested log data and running queries against the `SecurityEvent` table.
+
+## Evidence
+
+Add a screenshot here showing the Log Analytics workspace overview page in Azure.
+
+Example:
+`![Log Analytics Workspace Overview](../screenshots/log-analytics-workspace.jpg)
+
+## Result
+
+The Log Analytics workspace was successfully created and connected to the lab environment. After configuration, security event data was available for analysis in Microsoft Sentinel, confirming that the logging pipeline was working correctly.
