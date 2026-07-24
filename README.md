@@ -27,7 +27,7 @@ This lab was built to practice Windows event log collection, data connector setu
 ## Evidence Sequence
 
 
-**1.** **Azure Arc connected** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/800343df68813afc8b2e8de93a8765396c973ba8/01-azure-arc-connected.png)
+**1.** **Azure Arc connected** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/844989513247c8d3d7de55a3112662da7e279360/setup/01-azure-arc-connected.png)
 
 **2.**  **Azure Arc onboarding script** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/d50da997836e808c0a7955c3474da22512e1b8be/02-onboarding-script.png)
 
