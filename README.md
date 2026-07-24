@@ -33,7 +33,7 @@ I built a small SIEM lab to practice Windows event log collection, data connecto
 
 3. Windows Security Events via AMA connector ![image alt] (https://github.com/J-Walker-Git/siem-log-analysis/blob/01adab6bed264583f59c79773f1fd8e60cb291fb/03-sentinel-data-connector.png)
 
-4. SecurityEvent query results ![image alt]{https://github.com/J-Walker-Git/siem-log-analysis/blob/01adab6bed264583f59c79773f1fd8e60cb291fb/03-sentinel-data-connector.png}
+4. SecurityEvent query results ![image alt]{https://github.com/J-Walker-Git/siem-log-analysis/blob/2eb0d09712262b5e98526aba34cf0d8766566d7a/04-logs-query-event-data-1.png}
 
 5. Failed logon investigation ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/01adab6bed264583f59c79773f1fd8e60cb291fb/03-sentinel-data-connector.png)
 
