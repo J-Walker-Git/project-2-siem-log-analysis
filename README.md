@@ -29,7 +29,7 @@ This lab was built to practice Windows event log collection, data connector setu
 
 **1.** **Azure Arc connected** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/844989513247c8d3d7de55a3112662da7e279360/setup/01-azure-arc-connected.png)
 
-**2.**  **Azure Arc onboarding script** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/d50da997836e808c0a7955c3474da22512e1b8be/02-onboarding-script.png)
+**2.**  **Azure Arc onboarding script** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/ac340ce8abd479c47054c7ecc8db994e72a37f0b/setup/02-onboarding-script.png)
 
 **3.** **Windows Security Events via AMA connector** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/01adab6bed264583f59c79773f1fd8e60cb291fb/03-sentinel-data-connector.png)
 
