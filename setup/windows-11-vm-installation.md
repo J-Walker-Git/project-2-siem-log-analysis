@@ -4,4 +4,4 @@ A Windows 11 virtual machine was installed in VMware Workstation Pro to serve as
 
 After installation, VMware Tools was installed and the VM was prepared for Azure Arc onboarding and log collection. This provided a clean test system for Sentinel monitoring and failed logon testing.
 
-[image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/da7804ff3bf9cbaf0ba305199f914b02125a5c0d/setup/windows-vm-installation.png)
+![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/da7804ff3bf9cbaf0ba305199f914b02125a5c0d/setup/windows-vm-installation.png)
