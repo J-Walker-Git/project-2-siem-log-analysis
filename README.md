@@ -44,3 +44,20 @@ I built a small SIEM lab to practice Windows event log collection, data connecto
 - KQL querying.
 - Security event triage.
 - Technical documentation.
+
+## Notes
+
+This is a beginner lab project but reflects real SOC fundamentals:
+- Asset onboarding
+- Log collection
+- Event validation
+
+## Future Improvements
+
+I can build on what I have demonstrated here by:
+
+- Increasing the attack activity for deeper investigation
+- Adding basic threat hunting
+- Adding more KQL threat hunting queries
+- Creating analytics rules for repeated failed logons
+- Collecting Defender alerts in Sentinel
