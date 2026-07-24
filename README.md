@@ -33,7 +33,7 @@ This lab was built to practice Windows event log collection, data connector setu
 
 **3.** **Windows Security Events via AMA connector** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/7e1d73c717822349ef575d570402ca1a9ab19fb0/setup/03-sentinel-data-connector.png)
 
-**4.** **SecurityEvent query results** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/2eb0d09712262b5e98526aba34cf0d8766566d7a/04-logs-query-event-data-1.png)
+**4.** **SecurityEvent query results** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/9a76395dce048024ccb6e7737596117d24d63c2a/setup/04-logs-query-event-data-1.png)
 
 **5.** **Failed logon investigation** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/25dcd734c94d01148c9db8d38b75202aa4435f0b/05-unsuccessful-logons.png)
 
