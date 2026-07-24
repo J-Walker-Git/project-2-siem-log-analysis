@@ -27,7 +27,7 @@ I built a small SIEM lab to practice Windows event log collection, data connecto
 
 ## Evidence Sequence
 
-1. Azure Arc connected.
+1. Azure Arc connected ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/800343df68813afc8b2e8de93a8765396c973ba8/01-azure-arc-connected.png)
 2. Azure Arc onboarding script.
 3. Windows Security Events via AMA connector.
 4. SecurityEvent query results.
