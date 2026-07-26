@@ -37,6 +37,27 @@ This lab was built to practice Windows event log collection, data connector setu
 
 **5.** **Failed logon investigation** ![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/9d15395df47db83d9dbec7f4c7c646556802afb3/setup/unsuccessful-logons.png)
 
+
+## KQL
+
+Kusto Query Language is a tool used to explore data by identifying patterns, anomalies and outliers.
+The language is easier to read and communicates intent more directly compared to structured query language (SQL)
+
+KQL example
+SecurityEvent
+| where Computer contains "SOC-WIN11"
+| sort by TimeGenerated desc
+| take 50
+
+SQL example
+SELECT TOP 50 *
+FROM SecurityEvent
+WHERE Computer LIKE '%SOC-WIN11%'
+ORDER BY TimeGenerated DESC;
+
+![image alt](https://github.com/J-Walker-Git/siem-log-analysis/blob/f4e251b43ee40539de477c0f24e8e791e2f139ca/setup/05-sentinel-security-event-query-results-.png)
+
+
 ## Key Skills Demonstrated
 
 - Cloud onboarding and endpoint integration.
