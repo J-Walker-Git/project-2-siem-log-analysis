@@ -43,13 +43,13 @@ This lab was built to practice Windows event log collection, data connector setu
 Kusto Query Language is a tool used to explore data by identifying patterns, anomalies and outliers.
 The language is easier to read and communicates intent more directly compared to structured query language (SQL)
 
-KQL example
+**KQL example**
 SecurityEvent
 | where Computer contains "SOC-WIN11"
 | sort by TimeGenerated desc
 | take 50
 
-SQL example
+**SQL example**
 SELECT TOP 50 *
 FROM SecurityEvent
 WHERE Computer LIKE '%SOC-WIN11%'
