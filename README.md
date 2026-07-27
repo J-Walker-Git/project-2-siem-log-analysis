@@ -1,6 +1,6 @@
 # SIEM Log Analysis Lab
 
-This project demonstrates a beginner-friendly SOC lab built with Microsoft Sentinel, Azure Arc, and a Windows 11 virtual machine in VMware Workstation Pro. It focuses on the core operational flow of a SOC analyst: onboarding an endpoint, validating telemetry, querying security logs, and investigating failed authentication activity.
+This project demonstrates a beginner-friendly SOC lab built with Microsoft Sentinel, Azure Arc, and a Windows 11 virtual machine in VMware Workstation Pro. It demonstrates onboarding an endpoint, validating telemetry, querying security logs, and investigating failed authentication activity.
 
 ## Summary
 
